@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text>{{i18n.game}}</text></view><button type="primary" data-event-opts="{{[['tap',[['change',['$event']]]]]}}" bindtap="__e">切换语言</button></view>
